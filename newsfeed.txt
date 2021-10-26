@@ -1,0 +1,11 @@
+changelog 10/25/21, 06:00 CET
+
+Bugfixes
+- NBC Zombies do now despawn, they did not wich has lead to way to hard looting on some places
+- Angle Grinder is now displayed correct when attached to crafting bench
+- Sewing Machine is not invisible anymore when attached to a crafting bench
+- Toxic Crate does not duplicate its loot anymore on some server restarts
+
+
+Vehicles
+- Black Hawk does not spawn anymore due to it breaking very often if you take off
