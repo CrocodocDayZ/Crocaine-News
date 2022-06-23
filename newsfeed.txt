@@ -1,3 +1,21 @@
+Changelog 06/23/22 13:00 CET
+
+Mods
+- updated Crocaine Chernarus
+
+
+Bugfix
+- openable storage is now working correct again
+
+Added
+- Loadingscreen
+- Main Menu
+- Logout Game Menu including changelog
+
+
+-----------------------------------------------
+
+
 Changelog 06/18/22  19:00 CET
 
 Raiding
