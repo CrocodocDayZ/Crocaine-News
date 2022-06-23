@@ -3,7 +3,6 @@ Changelog 06/23/22 13:00 CET
 Mods
 - updated Crocaine Chernarus
 
-
 Bugfix
 - openable storage is now working correct again
 
