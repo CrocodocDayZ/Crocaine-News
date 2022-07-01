@@ -1,34 +1,7 @@
-Changelog 07/01/22 01:00 CET
+Changelog 07/01/22 16:00 CET
 
-Trader
-- Camonet added to Vehicle Trader for easy life
-
-
------------------------------------------------
-
-
-
-Changelog 06/23/22 13:00 CET
-
-Mods
-- updated Crocaine Chernarus
-
-Bugfix
-- openable storage is now working correct again
-
-Added
-- Loadingscreen
-- Main Menu
-- Logout Game Menu including changelog
-
-
------------------------------------------------
-
-
-Changelog 06/18/22  19:00 CET
-
-Raiding
-- normal raidtimes set in place again, no more early wipe protection
+Keycards
+- fixed black doors not spawning a vest under some circumstances
 
 
 -----------------------------------------------
