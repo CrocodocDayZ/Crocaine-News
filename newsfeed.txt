@@ -1,149 +1,37 @@
-Changelog 07/01/22 16:00 CET
+Changelog 08/29/22 01:00 CET
 
-Keycards
-- fixed black doors not spawning a vest under some circumstances
-
-
------------------------------------------------
-
-
-Changelog 1.18 Update
-
-Mods
-- updated Crocaine Chernarus
-
-
-Server
-- cleanup of all mission files
-
-
-Rules
-- | Strictly no locking of Vehicles spawned in the open that you have not driven/flewn before you lock them
-
-
-Guns
-- added GM6 Lynx
-- added MCX Spear (takes 556 and 300BO, takes Stanag, CMAG and own Mags, internally suppressed)
-- added Snipex Alligator
-- added 14.5x114mm rounds
-- added MP9
-- added MP9 Buttstock
-- added MCX Virtus (takes 556 and 300BO, takes Stanag, CMAG and own Mags)
-
-
-Gear
-- added Maska 1SCH craftable Helmet
-
-
-Toxic Areas
-- It does now only require a Gasmask (with Filter if needed) to visit Toxic Areas, NBC Suits are not needed anymore
-
-
-Keycard Doors
-- Red doors do not spawn Honeybadger rifles anymore
-- added Snipex Alligator to Black door lootpool
-
-
-Sleepingbags
-- Sleepingbag respawn bodyblock radius decreased from 2km to 1.5km
-
-
-Group ATM
-- group ATM is now 50k limit instead of 20k limit after group account creation
-- max account limit per new player in group now increases by 50k per player instead of 25k
-
-
-Cannabis
-- It takes 20 minutes instead of 8 to grow Cannabis
-
-
-KOTH
-- replaced Tan Ballista 338 / upgraded plate loadout with Tan ballista 408/light jugg loadout
-- replaced Black Ballista 338 / armored Pants loadout with Black Ballista 408 / Hacksaw loadout
-- replaced Green Ballista 338 with Green Ballista 408 / Decoder Tablet loadout
-- replaced Tac95 / AR500 with Tac-21 / IOTV loadout
-- changed Keycard from Red to Black Card in G28 loadout
-- changed Red Keycard to IOTV in M200 loadout
-- M200 loadout spawns with a Suppressor now
-- IOTV added to Ruger loadout
-- 6B43 Juggernaut added to ASH-12 loadout
-- Detonator added to ASH-12 loadout
-- replaced SA-80 / upgraded Plate loadout with Beowulf / 6B43 Juggernaut loadout
-- added Electronic Repair Kit to Beowulf loadout
-- replaced upgraded plate with AR500 set in SA-58 loadout
-- replaced Red with Black keycard in SA-58 loadout
-- added C4-Stick to SA-58 loadout
-- added PKM / Mando Helmet loadout
-- added M240 / Master Chief Helmet loadout
-
-
-Loot
-- Rucksack moved from crashiste to Tier 3&4 ground loot
-- IOTV moved from crashistes to Tier 4 ground loot
-- heavy plate can now spawn Tier 3&4 instead of only Tier 4
-- Bulldog helmet can now spawn Tier 3&4 instead of only Tier 4
-- Clone helmet respawn timer reduced by 50% (now same as Bulldog Helmet)
-- Large Hikingbackpack can not be found close to spawns anymore
-- Mando Helmet has a better chance to be found in Tier 4 areas
-- increased spawnrate of electronic repair kit
-- Hacksaw can not spawn in lowest Tier areas anymore, making it much more likely to find some in the higher Tier zones
-- Detonator moved from helicrashsites to tier 4 ground loot to make it easier to be farmed
-- increased spawnrate of C4-Stick 
-- increased charcoal spawnrate
-- increased Sulfur spawnrate
-- SA-80 Magazine spawnrate now matches the guns spawnrate
-- SA-58 removed from helicrashsites
-- golden MK14 added to helicrashsites
-- VSSK can now spawn Tier 3&4 instead of only Tier 4
-- Beowulf removed from Tisy ground loot (it is too strong)
-- x-15 Magazine moved from crashsites to Tier 4 ground loot
-- ASH-12 Magazine spawnrates now matches the rifles
-- ASH-12 now always spawns with a mag
-- ASH-12 can spawn with a suppressor attached now (15% chance)
-- ASH-12 Suppressor doesnt spawn as single item at crashsites anymore
-- RPD respawn timer slightly increased
-- M240 removed from ground loot (now event only)
-- PKP removed from ground loot (now event only)
-- PKM removed from ground loot (now event only)
-- slightly reduced Tac-95 spawnrate
-- Ruger Precision Rifle now always spawns with Mag attached
-- its now slightly easier to find sleepingbags
-- MCX Spear and attachments can now spawn in Tier 3&4 areas
-- MP9 can now spawn in low tier areas
-
-
-Vehicles
-- all currently not spawning Helicopters do now spawn in the open world
-- added 30 new potential Helicopter spawnplaces
-- added CH53 Transport Helicopter
+Updates
+- Crocaine Chernarus
 
 
 Bugfix
-- you can now scrap Glock 19
-- you can now scrap Lee-Enfield
-- you can now scrap MSBS
-- Yellow Keycards do now spawn Drugs with 10 instead of 20% chance
-- Blue Keycards do now spawn Drugs with 20 instead of 10% chance
+- Black X15 Magazine is not invisible anymore
 
 
-Trader
-- added all new Guns and Magazines to Trader
-- CH53 Helicopter can be bought
+---------------------------------------------------
 
 
-Workbench
-- crafting Large Tent now requires 10 tarp instead of 40
-- crafting Car Tent now requires 15 tarp instead of 30
- 
+Changelog 08/28/22 22:00 CET
 
-Misc
-- MCX can now spawn with various attachments
-- MP9 can now spawn with attachments
-- SA-58 can now spawn with attachments
-- MSBS can now spawn with attachments
-- several guns can now spawn with Atlas Bipod attached
-- LVOA-C is more likely to spawn with Optics attached
-- MCX Spear can be scrapped
-- MP9 can be scrapped
-- GM6 Lynx can be scrapped
-- compatibility mod for new Helicopter and CarCovers
+Updates
+- Crocaine Chernarus
+
+
+Mods
+- removed Chixoe Crocaine
+
+
+General
+- X15 Magazine can now be reskinned
+- M200 Suppressor can now be reskinned
+- SCAR-H can now be reskinned
+- SCAR-H Magazines can now be reskinned
+- SA-58 Buttstock
+
+
+Bugfix
+- all Donator Items that where not working after this mornings update are now working again
+
+
+Added
+- added more Donator reskins
