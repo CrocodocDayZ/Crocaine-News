@@ -1,3 +1,24 @@
+Changelog 09/05/22 01:00 CET
+
+Updates:
+- Crocaine Chernarus
+
+
+Bugfixes:
+- Black x15 magazine not invisible anymore
+- Alligator should now correctly spawn in the black keycard crate
+- BLPGG Beaver Basher fixed and working correctly again
+- Raid alarm working again
+
+
+New:
+- Readded a new version of KOTH with custom Crocaine assets. Locations and loot pools remain the same as in the last version
+- PBS reskinned Baraka sights
+
+
+---------------------------------------------------
+
+
 Changelog 08/29/22 01:00 CET
 
 Updates
