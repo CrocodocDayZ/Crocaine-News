@@ -1,58 +1,22 @@
-Changelog 09/05/22 01:00 CET
-
-Updates:
-- Crocaine Chernarus
-
-
-Bugfixes:
-- Black x15 magazine not invisible anymore
-- Alligator should now correctly spawn in the black keycard crate
-- BLPGG Beaver Basher fixed and working correctly again
-- Raid alarm working again
-
-
-New:
-- Readded a new version of KOTH with custom Crocaine assets. Locations and loot pools remain the same as in the last version
-- PBS reskinned Baraka sights
-
-
----------------------------------------------------
-
-
-Changelog 08/29/22 01:00 CET
-
-Updates
-- Crocaine Chernarus
-
-
-Bugfix
-- Black X15 Magazine is not invisible anymore
-
-
----------------------------------------------------
-
-
-Changelog 08/28/22 22:00 CET
-
-Updates
-- Crocaine Chernarus
-
-
-Mods
-- removed Chixoe Crocaine
-
+Changelog 10/20/22 22:00 CET
 
 General
-- X15 Magazine can now be reskinned
-- M200 Suppressor can now be reskinned
-- SCAR-H can now be reskinned
-- SCAR-H Magazines can now be reskinned
-- SA-58 Buttstock
+- Airdrop mod activated
 
 
-Bugfix
-- all Donator Items that where not working after this mornings update are now working again
-
-
-Added
-- added more Donator reskins
+Airdrops 
+- new locations: Berezino, Novodmitrovsk, Elektrozavodsk, Chernogorsk, Severograd, 
+                 Novaya Petrovka, Altar, Nadezhdino, Turovo Military Checkpoint, 
+                 Myshkino Military, Tisy
+- old Myshkino dropzone name changed to Myshkino Village 
+- all old dropzines still are in place
+- airdrop interval is now every 30 instead of every 45 minutes
+- airdrop now has 4 different Tiers of Loot, the more northwest a drop becomes, the better its loot gets
+- low Tier Airdrops are a viable source for nails and codelocks
+- high Tier Airdrops now have a chance to drop raid tools
+- no more tappers can be found in airdrops (they will be KOTH exclusive)
+- airdrops supply with neat Assault Rifles, Armor and LMG (LMG depending on Dropt-Tier)
+- airdrops always spawn gear at least one tier above the ground loot tier of respective drop zone
+- Airdrops can drop keycards, the higher the drop tier the better the card you can obtain
+- airdrops in lower Tier areas do not spawn mutants as defender 
+- aircraft is flying a bit higher to increase time players have to get to the dropzone
