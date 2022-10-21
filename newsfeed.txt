@@ -15,7 +15,7 @@ Airdrops
 - low Tier Airdrops are a viable source for nails and codelocks
 - high Tier Airdrops now have a chance to drop raid tools
 - no more tappers can be found in airdrops (they will be KOTH exclusive)
-- airdrops supply with neat Assault Rifles, Armor and LMG (LMG depending on Dropt-Tier)
+- airdrops supply with neat Assault Rifles, Armor and LMG (depending on Drop-Tier)
 - airdrops always spawn gear at least one tier above the ground loot tier of respective drop zone
 - Airdrops can drop keycards, the higher the drop tier the better the card you can obtain
 - airdrops in lower Tier areas do not spawn mutants as defender 
