@@ -1,3 +1,16 @@
+Changelog 10/22/22 07:00 CET
+
+Airdrops
+- reduced probability for bears and mutants to spawn at mid and high tier airdrops
+- reduced overall number of defenders for mid and high tier drops from 20 to 12
+
+
+Crashsites
+- added ASH12 to ruzzian gun crate
+- added Tac95 to ruzzian gun crate
+
+---------------------------------------------------------------------
+
 Changelog 10/21/22 19:00 CET
 
 General
