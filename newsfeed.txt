@@ -1,3 +1,24 @@
+Changelog 10/31/22 22:00 CET, minor update
+
+Vehicles
+- added Humwee
+- added Humwee parts
+
+Guns
+- added SSG-82
+- added BK-12
+- added CR-550
+
+Misc
+- replaced old GPS with new model
+
+Trader
+- added all new items and vehicles
+- old gps can not be bought anymore, only sold
+- removed old Hummer from Trader
+
+---------------------------------------------------------------------
+
 Changelog 10/22/22 07:00 CET
 
 Airdrops
