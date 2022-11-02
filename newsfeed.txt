@@ -1,3 +1,18 @@
+Changelog 11/02/22 10:00 CET
+
+Mods
+- updated Crocaine Chernarus
+
+Building
+- all placement and storage stacking issues should now be fixed
+
+Bugfix
+- Donator items that where bugged do now work again
+- Some recipes that where not working do work again
+- KOTH flag is no longer invisible
+
+---------------------------------------------------------------------
+
 Changelog 10/31/22 22:00 CET, minor update
 
 Vehicles
