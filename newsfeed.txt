@@ -1,3 +1,10 @@
+Changelog 11/03/22 10:00 CET
+
+Bugfix
+- fixed raid alarm backend being offline
+
+---------------------------------------------------------------------
+
 Changelog 11/02/22 10:00 CET
 
 Mods
