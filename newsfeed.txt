@@ -1,3 +1,10 @@
+Changelog 11/08/22 13:00 CET
+
+Trader
+- Cannabis items that could not be sold after mod updated can now be sold again
+
+---------------------------------------------------------------------
+
 Changelog 11/08/22 09:00 CET
 
 Trader
