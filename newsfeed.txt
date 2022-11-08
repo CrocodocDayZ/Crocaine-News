@@ -1,3 +1,22 @@
+Changelog 11/08/22 09:00 CET
+
+Trader
+- you can now buy and sell following items at drug trader: empty cannabis bags, plastic wrap, wrapper and bagger
+
+---------------------------------------------------------------------
+
+Changelog 11/06/22 19:00 CET
+
+Bugfix
+- Cannabis related items do not despawn on restarts anymore (this time really)
+
+
+Black Door
+- increased chance for raidtool spawn from 33 to 50%
+- removed vehicle lockpick from black door raidtool array to increase likelyhood for more useful tools
+
+---------------------------------------------------------------------
+
 Changelog 11/03/22 10:00 CET
 
 Bugfix
