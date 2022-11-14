@@ -1,3 +1,42 @@
+Changelog 11/14/22 19:00 CET
+
+Updates
+-Crocaine Chernarus
+
+
+Added
+- Warknifes for people that completed ultimate knifes
+- new storage labels made by DaBoomhh
+
+
+Changed
+- Description of some items already use new system, (not all yet, dont spam bug report channel. rest will follow)
+
+
+Bugfix
+- Nasty workarround for quadbike co-driver bug. Quadbike no longer lags when 2 people are driving it
+- Food storage label no longer dissapears if crafted
+
+---------------------------------------------------------------------
+
+Changelog 11/12/22 09:00 CET
+
+Missions
+- disabled camp missions to investigate reason for server freeze
+
+---------------------------------------------------------------------
+
+Changelog 11/10/22 07:00 CET
+
+CarCover
+- Humwee can now be covered
+
+
+Bugfix
+- attempted fix for hologram placement in some buildings
+
+---------------------------------------------------------------------
+
 Changelog 11/08/22 13:00 CET
 
 Trader
@@ -77,28 +116,3 @@ Airdrops
 Crashsites
 - added ASH12 to ruzzian gun crate
 - added Tac95 to ruzzian gun crate
-
----------------------------------------------------------------------
-
-Changelog 10/21/22 19:00 CET
-
-General
-- Airdrop mod activated
-
-
-Airdrops 
-- new locations: Berezino, Novodmitrovsk, Elektrozavodsk, Chernogorsk, Severograd, 
-                 Novaya Petrovka, Altar, Nadezhdino, Turovo Military Checkpoint, 
-                 Myshkino Military, Tisy
-- old Myshkino dropzone name changed to Myshkino Village 
-- all old dropzines still are in place
-- airdrop interval is now every 30 instead of every 45 minutes
-- airdrop now has 4 different Tiers of Loot, the more northwest a drop becomes, the better its loot gets
-- low Tier Airdrops are a viable source for nails and codelocks
-- high Tier Airdrops now have a chance to drop raid tools
-- no more tappers can be found in airdrops (they will be KOTH exclusive)
-- airdrops supply with neat Assault Rifles, Armor and LMG (depending on Drop-Tier)
-- airdrops always spawn gear at least one tier above the ground loot tier of respective drop zone
-- Airdrops can drop keycards, the higher the drop tier the better the card you can obtain
-- airdrops in lower Tier areas do not spawn mutants as defender 
-- aircraft is flying a bit higher to increase time players have to get to the dropzone
