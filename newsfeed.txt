@@ -1,3 +1,26 @@
+Changelog 12/13/22 03:00 CET
+
+Mods
+- updated Crocaine Chernarus
+
+
+Bugfix
+- attempted fix for several issues related to ground and airborn vehicles, in example player disconnects in vehicles
+
+---------------------------------------------------------------------
+
+Changelog 12/03/22 22:00 CET
+
+Keycards
+- Black Door can now spawn Decoder Tablet
+
+
+Lootpool
+- increased amount of decoder tablets spawning at Tisy
+- Decoder tablets in Tisy respawn 25% faster
+
+---------------------------------------------------------------------
+
 Changelog 11/14/22 19:00 CET
 
 Updates
